@@ -1,0 +1,2 @@
+System has unique solution: [61.5566, 35.1415]
+Only trivial solution exists.

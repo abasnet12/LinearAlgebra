@@ -1,0 +1,2 @@
+System is underdetermined.
+Non-trivial solution is: [-0.8944, -0.8944]
